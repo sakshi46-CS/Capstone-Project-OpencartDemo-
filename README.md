@@ -20,13 +20,4 @@ Extent Reports / SLF4J for reporting & logging
 
 
 
-OpenCart-Capstone/
-│── src/
-│   ├── main/java/pageobjects/       # Page Object classes
-│   ├── test/java/testcases/         # TestNG test cases
-│   ├── test/java/stepdefinitions/   # Step definitions for Cucumber
-│   ├── test/java/runners/           # TestNG + Cucumber runner classes
-│   └── resources/features/          # Cucumber feature files (Gherkin)
-│── pom.xml                          # Maven dependencies
-│── testng.xml                       # TestNG suite runner
-│── README.md                        # Project documentation
+
