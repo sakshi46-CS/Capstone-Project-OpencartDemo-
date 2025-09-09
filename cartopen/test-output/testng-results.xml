@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-10T02:54:33 IST" name="TutorialNinjaSuite" finished-at="2025-09-10T02:55:07 IST" duration-ms="33630">
+    <groups>
+    </groups>
+    <test started-at="2025-09-10T02:54:33 IST" name="TutorialNinjaTests" finished-at="2025-09-10T02:55:07 IST" duration-ms="33630">
+      <class name="testcases.CartTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.CartTest@69c81773]" started-at="2025-09-10T02:54:54 IST" name="setup" finished-at="2025-09-10T02:54:57 IST" duration-ms="3812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addProductToCart()[pri:0, instance:testcases.CartTest@69c81773]" started-at="2025-09-10T02:54:57 IST" name="addProductToCart" finished-at="2025-09-10T02:54:59 IST" duration-ms="1799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToCart -->
+      </class> <!-- testcases.CartTest -->
+      <class name="testcases.RemoveFromCartTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.RemoveFromCartTest@4d14b6c2]" started-at="2025-09-10T02:54:59 IST" name="setup" finished-at="2025-09-10T02:55:04 IST" duration-ms="4329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="removeProductFromCart()[pri:0, instance:testcases.RemoveFromCartTest@4d14b6c2]" started-at="2025-09-10T02:55:04 IST" name="removeProductFromCart" finished-at="2025-09-10T02:55:07 IST" duration-ms="3422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeProductFromCart -->
+      </class> <!-- testcases.RemoveFromCartTest -->
+      <class name="testcases.SearchTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.SearchTest@30f842ca]" started-at="2025-09-10T02:54:44 IST" name="setup" finished-at="2025-09-10T02:54:47 IST" duration-ms="3033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchInvalidProduct()[pri:0, instance:testcases.SearchTest@30f842ca]" started-at="2025-09-10T02:54:47 IST" name="searchInvalidProduct" finished-at="2025-09-10T02:54:48 IST" duration-ms="635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchInvalidProduct -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.SearchTest@30f842ca]" started-at="2025-09-10T02:54:48 IST" name="setup" finished-at="2025-09-10T02:54:52 IST" duration-ms="4455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchValidProduct()[pri:0, instance:testcases.SearchTest@30f842ca]" started-at="2025-09-10T02:54:52 IST" name="searchValidProduct" finished-at="2025-09-10T02:54:54 IST" duration-ms="1239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchValidProduct -->
+      </class> <!-- testcases.SearchTest -->
+      <class name="testcases.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.LoginTest@dc7df28]" started-at="2025-09-10T02:54:40 IST" name="setup" finished-at="2025-09-10T02:54:43 IST" duration-ms="2804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithValidCredentials()[pri:0, instance:testcases.LoginTest@dc7df28]" started-at="2025-09-10T02:54:43 IST" name="loginWithValidCredentials" finished-at="2025-09-10T02:54:44 IST" duration-ms="1480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredentials -->
+      </class> <!-- testcases.LoginTest -->
+      <class name="testcases.RegistrationTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.RegistrationTest@304bb45b]" started-at="2025-09-10T02:54:33 IST" name="setup" finished-at="2025-09-10T02:54:37 IST" duration-ms="3737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerWithValidDetails()[pri:0, instance:testcases.RegistrationTest@304bb45b]" started-at="2025-09-10T02:54:37 IST" name="registerWithValidDetails" finished-at="2025-09-10T02:54:40 IST" duration-ms="2801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerWithValidDetails -->
+      </class> <!-- testcases.RegistrationTest -->
+    </test> <!-- TutorialNinjaTests -->
+  </suite> <!-- TutorialNinjaSuite -->
+</testng-results>
